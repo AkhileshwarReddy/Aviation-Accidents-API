@@ -1,0 +1,2 @@
+class UsStateCode < ApplicationRecord
+end
